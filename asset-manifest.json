@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/pressjs/static/css/main.d4425c36.chunk.css",
-    "main.js": "/pressjs/static/js/main.e057e2af.chunk.js",
-    "main.js.map": "/pressjs/static/js/main.e057e2af.chunk.js.map",
-    "runtime-main.js": "/pressjs/static/js/runtime-main.475d8180.js",
-    "runtime-main.js.map": "/pressjs/static/js/runtime-main.475d8180.js.map",
-    "static/js/2.5ffa7dd7.chunk.js": "/pressjs/static/js/2.5ffa7dd7.chunk.js",
-    "static/js/2.5ffa7dd7.chunk.js.map": "/pressjs/static/js/2.5ffa7dd7.chunk.js.map",
-    "index.html": "/pressjs/index.html",
-    "precache-manifest.10531e3fef38d5c03ee92b1aababd143.js": "/pressjs/precache-manifest.10531e3fef38d5c03ee92b1aababd143.js",
-    "service-worker.js": "/pressjs/service-worker.js",
-    "static/css/main.d4425c36.chunk.css.map": "/pressjs/static/css/main.d4425c36.chunk.css.map",
-    "static/js/2.5ffa7dd7.chunk.js.LICENSE.txt": "/pressjs/static/js/2.5ffa7dd7.chunk.js.LICENSE.txt",
-    "static/media/assistant.jpg": "/pressjs/static/media/assistant.7a656a14.jpg",
-    "static/media/pressjs-logo.svg": "/pressjs/static/media/pressjs-logo.5c09288a.svg",
-    "static/media/responsive-webpage.png": "/pressjs/static/media/responsive-webpage.6239c1d5.png"
+    "main.css": "/static/css/main.d4425c36.chunk.css",
+    "main.js": "/static/js/main.a4e1da32.chunk.js",
+    "main.js.map": "/static/js/main.a4e1da32.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.efb127ab.js",
+    "runtime-main.js.map": "/static/js/runtime-main.efb127ab.js.map",
+    "static/js/2.5ffa7dd7.chunk.js": "/static/js/2.5ffa7dd7.chunk.js",
+    "static/js/2.5ffa7dd7.chunk.js.map": "/static/js/2.5ffa7dd7.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a98e1a7ea9879344e5b6a2e8c04f49e4.js": "/precache-manifest.a98e1a7ea9879344e5b6a2e8c04f49e4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d4425c36.chunk.css.map": "/static/css/main.d4425c36.chunk.css.map",
+    "static/js/2.5ffa7dd7.chunk.js.LICENSE.txt": "/static/js/2.5ffa7dd7.chunk.js.LICENSE.txt",
+    "static/media/assistant.jpg": "/static/media/assistant.7a656a14.jpg",
+    "static/media/pressjs-logo.svg": "/static/media/pressjs-logo.5c09288a.svg",
+    "static/media/responsive-webpage.png": "/static/media/responsive-webpage.6239c1d5.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.475d8180.js",
+    "static/js/runtime-main.efb127ab.js",
     "static/js/2.5ffa7dd7.chunk.js",
     "static/css/main.d4425c36.chunk.css",
-    "static/js/main.e057e2af.chunk.js"
+    "static/js/main.a4e1da32.chunk.js"
   ]
 }
